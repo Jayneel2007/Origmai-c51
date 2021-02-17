@@ -1,0 +1,23 @@
+.grid{
+
+    display:flex;
+    flex-wrap: nowrap;
+    border-color: #008060;
+
+}
+
+.grid img{
+
+    border: 20px;
+    border-radius: 20px;
+    border: 2px solid #FFFF00;
+
+}
+
+body{
+
+    background-color: burlywood;
+    border: 5px solid #8040FF;
+
+}
+
